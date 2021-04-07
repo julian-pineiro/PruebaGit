@@ -9,7 +9,7 @@ public static void main(int args[]){
 	}		
 	
 	public int dividir(int i, int j){
-	// completar código @mari
+	// return i/j;
 	}	
 
 	public int mult(int i, int j){
