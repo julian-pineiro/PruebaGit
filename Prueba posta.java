@@ -13,7 +13,7 @@ public static void main(int args[]){
 	}	
 
 	public int mult(int i, int j){
-	// completar código @juli
+		return i*j;
 	}	
 
 
